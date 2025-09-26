@@ -127,7 +127,7 @@ python inference.py
 
 - [x] Release the paper on arXiv.
 - [x] Release the initial code.
-- [ ] Release the complete code.
+- [ ] Release the complete code (around the end of November).
 - [ ] Release synthetic images by OF-Diff.
 
 ## Contact
