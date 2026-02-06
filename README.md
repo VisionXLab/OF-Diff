@@ -111,7 +111,7 @@ High-precision controllable remote sensing image generation is both meaningful a
 
 ```bash
 conda env create -f environment.yaml
-conda activate aerogen
+conda activate ofdiff
 ```
 
 ### 2. Data Preparation
