@@ -24,7 +24,7 @@
 - We summarize common failure modes in the generation of remote sensing images, including control leakage, structural distortion, dense generation collapse, and feature-level mismatch. In these four aspects, OF-Diff performs excellently.
 
 <p align="center">
-  <img src="figures/figure1.png" alt="Fig1" width="95%">
+  <img src="figures/figure1.png" alt="Fig1" width="90%">
 </p>
 
 
