@@ -116,7 +116,7 @@ conda activate ofdiff
 
 ### 2. Data Preparation
 
-**2.1 Dataset and structure**
+**2.1 Datasets and structure**
 
 You need to download the datasets. Taking [DIOR](https://pan.baidu.com/s/1iLKT0JQoKXEJTGNxt5lSMg#list/path=%2F) as an example, the dataset needs to be processed (see the [data_process.md](./tools/data_preparation.md)) to form the following format.
 
