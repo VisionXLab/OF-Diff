@@ -99,7 +99,7 @@ High-precision controllable remote sensing image generation is both meaningful a
 * **t-SNE Visualization of different generation image features.**
 
 <p align="center">
-  <img src="figures/tsne_feature.png" alt="arch" width="75%">
+  <img src="figures/tsne_feature.png" alt="arch" width="78%">
 </p>
 
 
