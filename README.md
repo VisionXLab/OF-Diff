@@ -149,7 +149,7 @@ python train.py
 ### 4. Sampling
 
 ```bash
-python merge_weights.py ./path/to/checkpoints
+python ./tools/merge_weights.py ./path/to/checkpoints
 python inference.py
 ```
 
