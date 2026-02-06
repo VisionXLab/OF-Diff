@@ -99,7 +99,7 @@ High-precision controllable remote sensing image generation is both meaningful a
 * **t-SNE Visualization of different generation image features.**
 
 <p align="center">
-  <img src="figures/tsne_feature.png" alt="arch" width="80%">
+  <img src="figures/tsne_feature.png" alt="arch" width="75%">
 </p>
 
 
@@ -118,7 +118,7 @@ conda activate aerogen
 
 **2.1 Dataset and structure**
 
-You need to download the dataset. Taking [DIOR](https://pan.baidu.com/s/1iLKT0JQoKXEJTGNxt5lSMg#list/path=%2F) as an example, the dataset needs to be processed (see the [data_process.md](./tools/data_preparation.md)) to form the following format.
+You need to download the datasets. Taking [DIOR](https://pan.baidu.com/s/1iLKT0JQoKXEJTGNxt5lSMg#list/path=%2F) as an example, the dataset needs to be processed (see the [data_process.md](./tools/data_preparation.md)) to form the following format.
 
 ```
 DIOR-R-train
