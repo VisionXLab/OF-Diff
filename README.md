@@ -8,7 +8,7 @@
 
 <sup>∗</sup> Equal Contribution, <sup>†</sup> Corresponding Author, <sup>‡ </sup> Project Lead 
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=VisionXLab.OF-Diff&left_color=%2363C7E6&right_color=%23CEE75F">  <img src="https://img.shields.io/badge/Updating%3F-yes-green.svg">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=VisionXLab.OF-Diff&left_color=%2363C7E6&right_color=%23CEE75F">  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
 <img src="https://img.shields.io/github/stars/VisionXLab/OF-Diff.svg?logo=github&label=Stars&color=white">
 
 <a href='https://arxiv.org/abs/2508.10801'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>  <a href=#citation><img src='https://img.shields.io/badge/Paper-BibTex-Green'></a> 
